@@ -17,7 +17,7 @@ Basic understanding of HTML, CSS, and JavaScript (optional but helpful).
 
 Installation
 
-Clone the repository:git clone https://github.com/your-username/NU-Learning.git
+Clone the repository:git clone https://github.com/nolchhonleang/NU-Learning
 
 
 Navigate to the project folder:cd NU-Learning
