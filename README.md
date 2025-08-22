@@ -53,3 +53,8 @@ Acknowledgments
 Inspired by the Norton University community.
 Built with love using HTML, CSS, and JavaScript.
 
+<img width="1894" height="1075" alt="image" src="https://github.com/user-attachments/assets/d0cd5c2b-939f-40e4-b340-3cd0d5301fd0" />
+<img width="1899" height="1070" alt="image" src="https://github.com/user-attachments/assets/dedde229-187f-4acd-a784-2562b8e322af" />
+<img width="1894" height="1071" alt="image" src="https://github.com/user-attachments/assets/9e46a7ae-798f-4fe8-8929-2eeb8f0fe65b" />
+
+
