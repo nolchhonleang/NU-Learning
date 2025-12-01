@@ -1,60 +1,56 @@
-NU-Learning
-Overview
-NU-Learning is an open-source platform designed to help aspiring web developers start their careers with free, high-quality resources. Created in collaboration with the Norton University community, this project offers a structured learning path covering HTML, CSS, JavaScript, React, Node.js, Ruby on Rails, and more. It features tutorials, hands-on projects, and a supportive community to guide learners from beginner to advanced levels.
-Features
+# NU-Learning
 
-Curated collection of web development tutorials and courses.
-Hands-on projects to build a portfolio.
-Community support for collaboration and advice.
-Responsive design with dark mode support.
+**NU-Learning** is an open-source educational platform dedicated to empowering aspiring web developers with free, high-quality resources. Developed in collaboration with the Norton University community, it provides a structured curriculum encompassing HTML, CSS, JavaScript, React, Node.js, Ruby on Rails, and beyond. Learners benefit from interactive tutorials, practical projects, and a supportive community to progress from foundational skills to advanced proficiency.
 
-Getting Started
-Prerequisites
+## Features ✨
+- **Curated Tutorials and Courses** 📚: A comprehensive collection of web development learning materials.
+- **Hands-On Projects** 🛠️: Real-world exercises to build a professional portfolio.
+- **Community Support** 👥: Forums and collaboration tools for guidance and networking.
+- **Responsive Design** 📱: User-friendly interface with dark mode for enhanced accessibility.
 
-A web browser (e.g., Chrome, Firefox).
-Text editor (e.g., VS Code).
-Basic understanding of HTML, CSS, and JavaScript (optional but helpful).
+## Getting Started 🚀
+### Prerequisites
+- A modern web browser (e.g., Chrome, Firefox).
+- A text editor (e.g., VS Code).
+- Basic knowledge of HTML, CSS, and JavaScript (recommended but not required).
 
-Installation
+### Installation
+1. Clone the repository:  
+   ```
+   git clone https://github.com/nolchhonleang/NU-Learning.git
+   ```
+2. Navigate to the project directory:  
+   ```
+   cd NU-Learning
+   ```
+3. Open `index.html` in your web browser to explore the platform.
 
-Clone the repository:git clone https://github.com/nolchhonleang/NU-Learning
-Visite our website here: https://nolchhonleang.github.io/NU-Learning/index.html
+Visit the live website: [https://nolchhonleang.github.io/NU-Learning/index.html](https://nolchhonleang.github.io/NU-Learning/index.html)
 
-Navigate to the project folder:cd NU-Learning
+## Project Structure 📂
+- `Project-Website-NU-Learning/`: Core website files.
+- `css/`: Stylesheets for layout and design.
+- `images/`: Assets including icons and visuals.
+- `js/`: JavaScript files for interactivity.
+- `about.html`, `allpaths.html`, etc.: Supporting pages.
+- `index.html`: Main entry point (formerly `home.html`).
 
+## Usage 📘
+- Access the home page via `index.html`.
+- Navigate to "All Paths" to explore learning tracks.
+- Use "Sign in" or "Create Account" for simulated user features (static implementation).
 
-Open index.html in your web browser to start exploring.
+## Contributing 🤝
+Contributions are encouraged! Fork the repository, implement your enhancements, and submit a pull request. For significant updates, please open an issue to discuss beforehand.
 
-Project Structure
+## License 📄
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-Project-Website-NU-Learning/: Contains the main website files.
-css/: Stylesheets.
-images/: Project images and icons.
-js/: JavaScript files.
-about.html, allpaths.html, etc.: Additional pages.
+## Acknowledgments 🙏
+- Inspired by the Norton University community.
+- Crafted with HTML, CSS, and JavaScript.
 
-
-index.html: The main entry point (moved from home.html).
-
-Usage
-
-Visit index.html to access the home page.
-Explore learning paths via the "All Paths" section.
-Use the "Sign in" or "Create Account" links to simulate user interaction (currently static).
-
-Contributing
-We welcome contributions! Please fork the repository, make your changes, and submit a pull request. For major changes, please open an issue first to discuss.
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-
-Acknowledgments
-
-Inspired by the Norton University community.
-Built with love using HTML, CSS, and JavaScript.
-
-<img width="1894" height="1075" alt="image" src="https://github.com/user-attachments/assets/d0cd5c2b-939f-40e4-b340-3cd0d5301fd0" />
-<img width="1899" height="1070" alt="image" src="https://github.com/user-attachments/assets/dedde229-187f-4acd-a784-2562b8e322af" />
-<img width="1894" height="1071" alt="image" src="https://github.com/user-attachments/assets/9e46a7ae-798f-4fe8-8929-2eeb8f0fe65b" />
-
-
+## Screenshots 📸
+![Screenshot 1](https://github.com/user-attachments/assets/d0cd5c2b-939f-40e4-b340-3cd0d5301fd0)
+![Screenshot 2](https://github.com/user-attachments/assets/dedde229-187f-4acd-a784-2562b8e322af)
+![Screenshot 3](https://github.com/user-attachments/assets/9e46a7ae-798f-4fe8-8929-2eeb8f0fe65b)
